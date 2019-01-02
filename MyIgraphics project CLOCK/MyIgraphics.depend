@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1527336476 source:d:\myigraphics\imain.cpp
+	<stdio.h>
+	<time.h>
+	"iGraphics.h"
+
+1527148222 d:\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1527159100 source:d:\myigraphics\first.c
+
+1527173472 source:d:\myigraphics\test.cpp
+	"iGraphics.h"
+
+1527597713 source:d:\buet code bloacks project\myigraphics\imain.cpp
+	<stdio.h>
+	<time.h>
+	"iGraphics.h"
+
+1527148222 d:\buet code bloacks project\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1527716724 source:d:\buet code bloacks project(fahmid)\myigraphics project clock\imain.cpp
+	<stdio.h>
+	<time.h>
+	"iGraphics.h"
+
+1527148222 d:\buet code bloacks project(fahmid)\myigraphics project clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
